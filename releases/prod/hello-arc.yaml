@@ -16,4 +16,4 @@ spec:
     replicaCount: 1
     env:
       name: MESSAGE
-      value: Nutanix and Azure Arc enabled K8s GitOps Demo!
+      value: Nutanix Karbon and Azure Arc enabled K8s GitOps Demo!
